@@ -1,0 +1,3 @@
+file1  line1
+file1 line2
+total 2 lines
